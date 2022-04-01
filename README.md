@@ -1,6 +1,6 @@
 # Mern Countries App
 
-### [Visit](https://allcountries-app.netlify.app/)
+### [Visit](https://mern-countries-app.netlify.app/)
 
 ![Mern Countries App](https://user-images.githubusercontent.com/93548530/161108895-48a3859c-e2df-44dd-ab4b-640182c1ba7e.png)
 
